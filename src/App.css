@@ -1,0 +1,15 @@
+.error-msg,input,select{
+  
+  width: 70%;
+  max-width: 500px;
+}
+input,select{
+  border: solid 3px rgb(78, 75, 75);
+}
+
+form div{
+  margin: 10px;
+}
+.general-page{
+  background-image: url("../public/colorful-stingrays.svg");
+}
