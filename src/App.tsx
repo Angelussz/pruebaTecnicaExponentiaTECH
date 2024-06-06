@@ -3,7 +3,7 @@ import { OptionsComponent } from "./Components/OptionsComponent";
 import { FormData } from "./types/formTypes";
 import CompanyList from "./Components/CompanyList";
 import { v4 as uuidv4 } from 'uuid';
-import ExponentiaLogo from '../public/exponentiaLogo.png'
+import ExponentiaLogo from '/exponentiaLogo.png'
 import "./App.css"
 type Options = {
   companyType: {
