@@ -9,4 +9,4 @@ npm install
 * Vite
 * UUID
 ## Página del frontEnd
-[Prueba exponential tech](https://exponentialtechpruebatecnica.netlify.app/)
+[Página de Prueba exponential tech](https://exponentialtechpruebatecnica.netlify.app/)
